@@ -1,2 +1,2 @@
 # Fine-Tuning-LLM-for-Q-A
-Fine Tuning Albert model for Q-A using SQuAD-v2
+Fine Tuning Albert model for Question Answering using SQuAD-v2
